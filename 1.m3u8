@@ -19,7 +19,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV10.png tvg-name=CCTV10 group-title=央视频道,CCTV10
 http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV11.png tvg-name=CCTV11 group-title=央视频道,CCTV11
+#EXTINF:-1 tvg-logo=CCTV11. tvg-name=CCTV11 group-title=央视频道,CCTV11
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV12.png tvg-name=CCTV12 group-title=央视频道,CCTV12
 http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
